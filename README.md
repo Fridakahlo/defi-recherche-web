@@ -21,8 +21,7 @@ git commit, git push
 Défi
 
 Par qui, quand, pourquoi et où a été inventé Internet ?
-fjqùlksjfdlkqjsdfùl
-
+Les premiers textes décrivant les interactions sociales pouvant être rendues possibles grâce à un réseau d’ordinateurs étaient une série de mémos écrits par J.C.R. Licklider du MIT en août 1962 portant sur son concept de « réseau galactique ». 
 
 Quelle est la différence entre le Web et Internet ?
 Qu’est-ce que cela :
