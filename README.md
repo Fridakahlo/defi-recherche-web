@@ -17,13 +17,15 @@ la question
 les sources de votre réponse
 Soyez le plus clair et explicite possible
 Après chaque réponse,
-git commit, git push
+git commit, git push 
 Défi
 
 Par qui, quand, pourquoi et où a été inventé Internet ?
-Les premiers textes décrivant les interactions sociales pouvant être rendues possibles grâce à un réseau d’ordinateurs étaient une série de mémos écrits par J.C.R. Licklider du MIT en août 1962 portant sur son concept de « réseau galactique ». 
+Les premiers textes décrivant les interactions sociales pouvant être rendues possibles grâce à un réseau d’ordinateurs étaient une série de mémos écrits par J.C.R. Licklider du MIT en août 1962 portant sur son concept de « réseau galactique ». Il imagina un ensemble d’ordinateurs interconnectés au niveau mondial à travers lequel chacun pourrait accéder rapidement aux données et programmes depuis n’importe quel site. En théorie, le concept était très semblable à l’Internet d’aujourd’hui. US
 
 Quelle est la différence entre le Web et Internet ?
+
+
 Qu’est-ce que cela :
 8.8.8.8
 192.168.0.1
